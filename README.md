@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gold Okereke
 
-**CS Graduate (First Class)** | **AI + HealthTech** | **Building Intelligent Healthcare Systems**
+**CS Graduate** | **AI + HealthTech** | **Building Intelligent Healthcare Systems**
 
 I'm a Computer Science graduate passionate about building AI systems that make healthcare accessible. My work sits at the intersection of software engineering, machine learning, and healthcare — building systems that can actually make a difference.
 
@@ -46,8 +46,8 @@ Modifying and refining Stroke Shield to deepen my understanding of ML fundamenta
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gold-okereke)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gold-okereke-)
+
 
 ---
 
